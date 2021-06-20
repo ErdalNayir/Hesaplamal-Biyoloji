@@ -1,2 +1,2 @@
-# Hesaplamal-Biyoloji
+# Hesaplamalı-Biyoloji
 Code writing homework for Introduction of Computational Biology
